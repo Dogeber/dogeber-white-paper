@@ -19,6 +19,11 @@
 
 * [Information](token-economics/information.md)
 
+## Rights And Interests
+
+* [Advertising Revenue](rights-and-interests/advertising-revenue.md)
+* [Tax Revenue](rights-and-interests/tax-revenue.md)
+
 ## Road Map
 
 * [Road Map](road-map/road-map.md)
