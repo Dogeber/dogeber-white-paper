@@ -28,10 +28,6 @@
 
 * [Road Map](road-map/road-map.md)
 
-## User Benefits
-
-* [Advertising Benefits](user-benefits/advertising-benefits.md)
-
 ## Ecological Governance &#x20;
 
 * [Dao](ecological-governance/dao.md)
