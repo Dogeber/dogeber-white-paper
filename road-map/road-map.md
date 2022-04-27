@@ -6,20 +6,12 @@ description: >-
 
 # Road Map
 
-## Q2 2022
-
-* Beta launch
-* Private placement
-* IDO
-* Optimize content multi-element upload
-* Marketing and Community Incentives
-* Advertising module design
-
 ## Q3 2022
 
 * Advertising module V1
+* IDO and token launch
+* listed on Cex
 * Advertising revenue will be distributed to the community and content contributors
-* The number of platform users exceeded 100,000
 * Feasibility Design of Community Governance Program
 
 ## Q4 2022
