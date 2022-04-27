@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/bg_1.png
+coverY: 0
+---
+
 # Doger -  Social Finance Ecosystem
 
 ## Conception
