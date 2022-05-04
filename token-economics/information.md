@@ -46,14 +46,3 @@ Take the initial transaction tax of 10% as an example
 
 6% - Marketing
 
-## Token Distribution
-
-| Category                                                            | Percentage |
-| ------------------------------------------------------------------- | ---------: |
-| Early Investor                                                      |        10% |
-| IDO                                                                 |        25% |
-| Team                                                                |        15% |
-| Treasury (Market Making, Operations, Marketing, Partnerships, etc.) |        15% |
-| Rewards (social, airdrops, etc.)                                    |        25% |
-| System construction (software and hardware)                         |        10% |
-
