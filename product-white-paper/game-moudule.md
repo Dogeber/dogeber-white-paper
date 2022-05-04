@@ -6,7 +6,7 @@ description: >-
 
 # Game Moudule
 
-## Game Recommend&#x20;
+## Game Recommend(Soon)&#x20;
 
 We will use our recommendation algorithm to recommend daily hottest games to users
 

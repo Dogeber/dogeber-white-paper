@@ -13,6 +13,7 @@
 * [Search Module](product-white-paper/search-module.md)
 * [Gambit Module](product-white-paper/gambit-module.md)
 * [Game Moudule](product-white-paper/game-moudule.md)
+* [Advertise Moudule](product-white-paper/advertise-moudule.md)
 * [Recommendation Algorithm](product-white-paper/recommendation-algorithm.md)
 
 ## Token Economics
