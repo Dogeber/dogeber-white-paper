@@ -7,6 +7,10 @@ description: >-
 
 # Advertise Moudule
 
+## Payment Tokens for Advertising
+
+$DogerCoin is the only ad payment method
+
 ## Create Advertise
 
 Click to enter the advertising module
