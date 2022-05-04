@@ -13,7 +13,7 @@ In today's world, social networks are overly centralized and a few people have a
 
 Today, dogs have become the biggest consensus in people's hearts, we believe that dogs are man's best friend
 
-![Doger Logo](.gitbook/assets/logo.png)
+![](.gitbook/assets/logo-round.png)
 
 ## Guides: Jump right in
 
