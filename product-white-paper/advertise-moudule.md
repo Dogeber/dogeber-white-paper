@@ -11,11 +11,11 @@ description: >-
 
 Click to enter the advertising module
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (5).png>)
 
 We visualize the advertising data in the advertising homepage
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (4).png>)
 
 When creating an ad, you can choose the corresponding network and size of the ad to determine where the ad should be displayed
 
