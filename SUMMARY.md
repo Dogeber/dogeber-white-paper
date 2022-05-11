@@ -16,6 +16,7 @@
 * [Advertise Moudule](product-white-paper/advertise-moudule.md)
 * [Recommendation Algorithm](product-white-paper/recommendation-algorithm.md)
 * [Token Whitelist](product-white-paper/token-whitelist.md)
+* [Interface Style](product-white-paper/interface-style.md)
 
 ## Token Economics
 
