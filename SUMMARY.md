@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Doger -  Social Finance Ecosystem](README.md)
+* [Dogeber -  Social Finance Ecosystem](README.md)
 
 ## Product White Paper
 

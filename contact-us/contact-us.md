@@ -14,7 +14,7 @@ description: Information about us
 
 ### Twitter
 
-[https://twitter.com/0xDoger](https://twitter.com/0xDoger)
+[https://twitter.com/0xDogeber](https://twitter.com/0xDogeber)
 
 ### YouTube
 
