@@ -2,9 +2,9 @@
 
 ## Token Information
 
-Name: Dogeber Coin
+Name: Doger Coin
 
-Ticker: Dogeber
+Ticker: Doger
 
 Contract Address: TBA
 
